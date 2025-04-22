@@ -14,6 +14,9 @@ Este proyecto tiene el fin de analizar las ventas de 4 tiendas, con el fin de po
 - **pandas**
 - **seaborn**
 - **matplotlib**
-- folium
+- **folium**
 ### 🐍 Python
 - ver. *3.11.12*
+### 👩‍💻 Pasos
+1. Clonar o descargar el proyecto.
+2. Ejecutar el archivo **AluraStoreLatam.ipynb**
